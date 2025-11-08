@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				28,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nimu left"
+		},
+		{
+			"offsets": [
+				6,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nimu right"
+		},
+		{
+			"offsets": [
+				-13,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nimu down"
+		},
+		{
+			"offsets": [
+				3,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nimu up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				140
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "nimu idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				140
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "nimu idle",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nimu remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nimu",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
