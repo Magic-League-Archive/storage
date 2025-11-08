@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1_202252625437.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dross down0000" x="0" y="0" width="1228" height="1237" pivotX="895.45" pivotY="1120.25"/>
+	<SubTexture name="dross down0001" x="0" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0002" x="1228" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0003" x="1228" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0004" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0005" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0006" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0007" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0008" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0009" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0010" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0011" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0012" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0013" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0014" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0015" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0016" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0017" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0018" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross down0019" x="2456" y="0" width="1228" height="1237"/>
+	<SubTexture name="dross idle0000" x="3684" y="0" width="1343" height="1346" pivotX="954.2" pivotY="1191.75"/>
+	<SubTexture name="dross idle0001" x="3684" y="0" width="1343" height="1346"/>
+	<SubTexture name="dross idle0002" x="5027" y="0" width="1343" height="1346"/>
+	<SubTexture name="dross idle0003" x="5027" y="0" width="1343" height="1346"/>
+	<SubTexture name="dross idle0004" x="6370" y="0" width="1343" height="1346"/>
+	<SubTexture name="dross idle0005" x="6370" y="0" width="1343" height="1346"/>
+	<SubTexture name="dross idle0006" x="0" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0007" x="0" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0008" x="1343" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0009" x="1343" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0010" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0011" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0012" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0013" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0014" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0015" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0016" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0017" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0018" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross idle0019" x="2686" y="1346" width="1343" height="1346"/>
+	<SubTexture name="dross left0000" x="4029" y="1346" width="1270" height="1285" pivotX="900.65" pivotY="1177.05"/>
+	<SubTexture name="dross left0001" x="4029" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0002" x="5299" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0003" x="5299" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0004" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0005" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0006" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0007" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0008" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0009" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0010" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0011" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0012" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0013" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0014" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0015" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0016" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0017" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0018" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross left0019" x="6569" y="1346" width="1270" height="1285"/>
+	<SubTexture name="dross right0000" x="0" y="2692" width="1222" height="1256" pivotX="927.85" pivotY="1155.3"/>
+	<SubTexture name="dross right0001" x="0" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0002" x="1222" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0003" x="1222" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0004" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0005" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0006" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0007" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0008" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0009" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0010" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0011" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0012" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0013" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0014" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0015" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0016" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0017" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0018" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross right0019" x="2444" y="2692" width="1222" height="1256"/>
+	<SubTexture name="dross up0000" x="3666" y="2692" width="1129" height="1727" pivotX="856.3" pivotY="1647.8"/>
+	<SubTexture name="dross up0001" x="3666" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0002" x="4795" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0003" x="4795" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0004" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0005" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0006" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0007" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0008" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0009" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0010" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0011" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0012" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0013" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0014" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0015" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0016" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0017" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0018" x="5924" y="2692" width="1129" height="1727"/>
+	<SubTexture name="dross up0019" x="5924" y="2692" width="1129" height="1727"/>
+</TextureAtlas>
