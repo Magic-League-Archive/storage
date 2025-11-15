@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				148
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "markus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "markus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "markus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				305
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "markus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				187
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "markus right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/markus_madness",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		30,
+		0
+	],
+	"camera_position": [
+		0,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
